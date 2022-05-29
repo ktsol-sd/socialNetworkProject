@@ -5,6 +5,6 @@ Social network project (kinda like a twitter clone) this rep is just for referen
 You can now test this here! http://sadonproject.xyz
 
 A few known bugs:
-* SocketIO is not working properly as far as I know I'm currently trying to fix it.
+* ~~SocketIO is not working properly as far as I know I'm currently trying to fix it.~~ Apparently it does work
 * Search function shows users more than once if they have similar words/numbers in their names
 * If you login and revisit the website later you might get 500 error and have to log out and log in again.
